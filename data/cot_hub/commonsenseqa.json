@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What happens when you drop a ball? Options: (A) It floats away (B) It falls down (C) It disappears (D) It grows bigger (E) It changes color",
+    "cot": "When you drop a ball, gravity pulls it toward the Earth's surface, so it falls down. This is a basic principle of physics - objects are attracted to Earth by gravitational force unless acted upon by another force.",
+    "answer": "B"
+  },
+  {
+    "question": "What do you use to write? Options: (A) A spoon (B) A pen (C) A plate (D) A pillow (E) A shoe",
+    "cot": "A pen is a writing instrument designed specifically for putting ink or similar substances on paper or other surfaces. While other objects might be able to make marks, a pen is the most appropriate and commonly used tool for writing.",
+    "answer": "B"
+  },
+  {
+    "question": "What time do most people wake up? Options: (A) Midnight (B) 3 AM (C) 7 AM (D) Noon (E) 8 PM",
+    "cot": "Most people wake up in the morning, typically around 7 AM, as this aligns with normal work and school schedules. Waking up at midnight, 3 AM, or 8 PM would not be practical for most people's daily routines.",
+    "answer": "C"
+  },
+  {
+    "question": "What do you need to make a sandwich? Options: (A) A computer (B) Bread (C) A car (D) A book (E) A phone",
+    "cot": "To make a sandwich, you need bread as the base. While you might also want fillings like meat, cheese, or vegetables, bread is the fundamental component that defines a sandwich. A computer, car, book, or phone would not be useful for making food.",
+    "answer": "B"
+  },
+  {
+    "question": "Where do you put your head when you sleep? Options: (A) On a chair (B) On a pillow (C) On the floor (D) On a table (E) On a car",
+    "cot": "When sleeping, you typically put your head on a pillow for comfort and support. Pillows are specifically designed for this purpose and help maintain proper neck alignment while sleeping. Other objects would be uncomfortable or impractical.",
+    "answer": "B"
+  },
+  {
+    "question": "What do you do with dirty clothes? Options: (A) Eat them (B) Wash them (C) Throw them away (D) Wear them again (E) Give them to a dog",
+    "cot": "When clothes are dirty, the most sensible thing to do is wash them to clean them and make them suitable for wearing again. Eating, throwing away, or giving clean clothes to a dog would not be practical solutions.",
+    "answer": "B"
+  },
+  {
+    "question": "What happens to ice when it gets warm? Options: (A) It gets colder (B) It melts (C) It disappears (D) It gets bigger (E) It turns blue",
+    "cot": "When ice gets warm, it melts and turns into liquid water. This is a fundamental property of matter - when a solid is heated beyond its melting point, it changes state to become a liquid.",
+    "answer": "B"
+  },
+  {
+    "question": "What do you wear on your feet? Options: (A) A hat (B) Gloves (C) Shoes (D) A scarf (E) Sunglasses",
+    "cot": "Shoes are clothing items specifically designed to be worn on the feet. They protect the feet, provide support, and help with walking. A hat, gloves, scarf, or sunglasses are worn on other parts of the body, not the feet.",
+    "answer": "C"
+  }
+]

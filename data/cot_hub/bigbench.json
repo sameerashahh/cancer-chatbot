@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 20 (B) 24 (C) 32 (D) 64",
+    "cot": "Looking at the sequence 2, 4, 8, 16, I can see that each number is double the previous one: 2×2=4, 4×2=8, 8×2=16. So the next number should be 16×2=32.",
+    "answer": "C"
+  },
+  {
+    "question": "Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Driver (B) Garage (C) Road (D) Engine",
+    "cot": "In this analogy, a book is stored in a library, so I need to find where a car is stored. A car is stored in a garage, making this the most appropriate relationship.",
+    "answer": "B"
+  },
+  {
+    "question": "If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) All roses are red (B) Some roses are red (C) No roses are red (D) Cannot be determined",
+    "cot": "We know all roses are flowers, and some flowers are red. However, the red flowers could be any type of flower, not necessarily roses. Therefore, we cannot definitively say that some roses are red without more information.",
+    "answer": "D"
+  },
+  {
+    "question": "What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) E (B) N (C) T (D) H",
+    "cot": "This pattern represents the first letters of numbers: One, Two, Three, Four, Five, Six, Seven. The next number would be Eight, so the next letter is E.",
+    "answer": "A"
+  },
+  {
+    "question": "If a train travels 60 mph for 2 hours, how far does it go? Options: (A) 120 miles (B) 30 miles (C) 62 miles (D) 100 miles",
+    "cot": "To find distance, I multiply speed by time: Distance = Speed × Time = 60 mph × 2 hours = 120 miles.",
+    "answer": "A"
+  },
+  {
+    "question": "Which is the odd one out: Apple, Banana, Orange, Carrot? Options: (A) Apple (B) Banana (C) Orange (D) Carrot",
+    "cot": "Apple, Banana, and Orange are all fruits, while Carrot is a vegetable. Therefore, Carrot is the odd one out as it doesn't belong to the same category.",
+    "answer": "D"
+  },
+  {
+    "question": "What is the missing number: 3, 7, 15, 31, ? Options: (A) 47 (B) 63 (C) 55 (D) 59",
+    "cot": "Looking at the pattern: 3×2+1=7, 7×2+1=15, 15×2+1=31. Each number is double the previous plus one. So 31×2+1=63.",
+    "answer": "B"
+  },
+  {
+    "question": "If today is Wednesday, what day will it be 10 days from now? Options: (A) Saturday (B) Sunday (C) Monday (D) Tuesday",
+    "cot": "Since there are 7 days in a week, 10 days = 1 week + 3 days. So 10 days from Wednesday would be Wednesday + 3 days = Saturday.",
+    "answer": "A"
+  }
+]

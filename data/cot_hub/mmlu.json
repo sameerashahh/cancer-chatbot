@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Which planet is closest to the Sun? Options: (A) Mercury (B) Venus (C) Earth (D) Mars",
+    "cot": "Mercury is the closest planet to the Sun because it has the smallest orbit radius. It completes one orbit in about 88 Earth days, making it the innermost planet in our solar system.",
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical symbol for gold? Options: (A) Go (B) Gd (C) Au (D) Ag",
+    "cot": "The chemical symbol for gold is Au, which comes from the Latin word 'aurum' meaning gold. This follows the historical naming convention where many elements are named after their Latin origins.",
+    "answer": "C"
+  },
+  {
+    "question": "Which blood type is known as the universal donor? Options: (A) A (B) B (C) AB (D) O",
+    "cot": "Blood type O negative is considered the universal donor because it lacks A, B, and Rh antigens. This means it can be safely transfused to patients with any blood type without causing adverse immune reactions.",
+    "answer": "D"
+  },
+  {
+    "question": "What is the capital of Australia? Options: (A) Sydney (B) Melbourne (C) Canberra (D) Perth",
+    "cot": "Canberra is the capital of Australia. While Sydney and Melbourne are larger cities, Canberra was specifically designed and built to serve as the capital city, located in the Australian Capital Territory.",
+    "answer": "C"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'? Options: (A) Charles Dickens (B) William Shakespeare (C) Mark Twain (D) Jane Austen",
+    "cot": "William Shakespeare wrote 'Romeo and Juliet' in the late 16th century. It is one of his most famous tragedies and tells the story of two young lovers from feuding families in Verona.",
+    "answer": "B"
+  },
+  {
+    "question": "What is the largest mammal in the world? Options: (A) African Elephant (B) Blue Whale (C) Giraffe (D) Polar Bear",
+    "cot": "The blue whale is the largest mammal in the world. It can grow up to 100 feet long and weigh up to 200 tons, making it larger than any elephant, giraffe, or other land mammal.",
+    "answer": "B"
+  },
+  {
+    "question": "Which gas makes up most of Earth's atmosphere? Options: (A) Oxygen (B) Carbon Dioxide (C) Nitrogen (D) Argon",
+    "cot": "Nitrogen makes up about 78% of Earth's atmosphere, while oxygen makes up about 21%. The remaining 1% consists of other gases like argon, carbon dioxide, and water vapor.",
+    "answer": "C"
+  },
+  {
+    "question": "What is the smallest unit of matter? Options: (A) Molecule (B) Atom (C) Electron (D) Proton",
+    "cot": "The atom is the smallest unit of matter that retains the properties of an element. While atoms contain smaller particles like protons, neutrons, and electrons, these subatomic particles don't maintain the chemical properties of the element on their own.",
+    "answer": "B"
+  }
+]

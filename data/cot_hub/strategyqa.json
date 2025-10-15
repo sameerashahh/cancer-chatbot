@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Do more people live in cities or rural areas worldwide? Options: (A) Cities (B) Rural areas",
+    "cot": "According to recent UN data, more than half of the world's population now lives in urban areas. This trend has been accelerating due to urbanization, job opportunities, and better access to services in cities. Therefore, more people live in cities than rural areas.",
+    "answer": "A"
+  },
+  {
+    "question": "Is the sky blue during the day? Options: (A) Yes (B) No",
+    "cot": "Yes, the sky appears blue during the day due to Rayleigh scattering. When sunlight enters Earth's atmosphere, blue light has a shorter wavelength and gets scattered more than other colors, making the sky appear blue to our eyes.",
+    "answer": "A"
+  },
+  {
+    "question": "Can fish survive on land? Options: (A) Yes (B) No",
+    "cot": "Most fish cannot survive on land because they have gills adapted for extracting oxygen from water, not air. However, there are some exceptions like mudskippers and lungfish that can breathe air and survive out of water for limited periods.",
+    "answer": "B"
+  },
+  {
+    "question": "Do trees produce oxygen? Options: (A) Yes (B) No",
+    "cot": "Yes, trees produce oxygen through photosynthesis. They absorb carbon dioxide and water, and using sunlight and chlorophyll, they convert these into glucose and release oxygen as a byproduct. This process is crucial for maintaining atmospheric oxygen levels.",
+    "answer": "A"
+  },
+  {
+    "question": "Is water wet? Options: (A) Yes (B) No",
+    "cot": "This is a philosophical question with no clear scientific consensus. From a physics perspective, 'wetness' refers to a liquid's ability to adhere to a solid surface. Water can make other things wet, but whether water itself is 'wet' depends on the definition used.",
+    "answer": "A"
+  },
+  {
+    "question": "Do birds have teeth? Options: (A) Yes (B) No",
+    "cot": "Modern birds do not have teeth. They have beaks instead. However, fossil evidence shows that ancient birds did have teeth. Birds lost their teeth during evolution, likely to reduce weight for flight and because beaks are more efficient for their feeding strategies.",
+    "answer": "B"
+  },
+  {
+    "question": "Is the Earth round? Options: (A) Yes (B) No",
+    "cot": "Yes, the Earth is approximately round (spherical). While it's not a perfect sphere due to its rotation causing slight flattening at the poles, it is fundamentally round. This has been confirmed through space observations, satellite imagery, and various scientific measurements.",
+    "answer": "A"
+  },
+  {
+    "question": "Do humans have tails? Options: (A) Yes (B) No",
+    "cot": "Adult humans do not have external tails. While human embryos develop a tail during early development, it typically disappears before birth. Very rarely, some humans are born with a small tail-like structure, but this is an abnormality, not the norm.",
+    "answer": "B"
+  }
+]
