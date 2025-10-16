@@ -59,10 +59,17 @@ def initialize_llm() -> LLM:
 
 
 def extract_number(text: str) -> float:
-    """Extract numeric value from model output"""
+    """Extract numeric value right after 'Complexity:' or the last number in the string."""
+    # Try to find 'Complexity: <number>'
+    match = re.search(r"[Cc]omplexity\s*[:\-]?\s*(\d+\.?\d*)", text)
+    if match:
+        return float(match.group(1))
+
+    # Fallback: take last number if 'Complexity:' not found
     numbers = re.findall(r'\d+\.?\d*', text)
     if numbers:
-        return float(numbers[0])
+        return float(numbers[-1])
+
     return 0.0
 
 

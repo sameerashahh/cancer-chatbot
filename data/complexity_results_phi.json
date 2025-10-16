@@ -3,7 +3,7 @@
     "prompt": "Question: Do more people live in cities or rural areas worldwide? Options: (A) Rural areas (B) Cities",
     "task": "strategyqa",
     "subtask": "temporal_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do birds have teeth? Options: (A) Yes (B) No",
@@ -33,7 +33,7 @@
     "prompt": "Question: Can fish survive on land? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "temporal_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Can fish survive on land? Options: (A) No (B) Yes",
@@ -51,7 +51,7 @@
     "prompt": "Question: Do humans have tails? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "temporal_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Can fish survive on land? Options: (A) No (B) Yes",
@@ -75,13 +75,13 @@
     "prompt": "Question: Is the Earth round? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "temporal_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Can fish survive on land? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "temporal_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do trees produce oxygen? Options: (A) Yes (B) No",
@@ -171,7 +171,7 @@
     "prompt": "Question: Is the Earth round? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "temporal_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Is the sky blue during the day? Options: (A) No (B) Yes",
@@ -273,7 +273,7 @@
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) Jane Austen (B) William Shakespeare",
     "task": "mmlu",
     "subtask": "business_ethics",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the chemical symbol for gold? Options: (A) Gd (B) Au",
@@ -309,7 +309,7 @@
     "prompt": "Question: What is the chemical symbol for gold? Options: (A) Ag (B) Au",
     "task": "mmlu",
     "subtask": "business_ethics",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) O (B) B",
@@ -327,7 +327,7 @@
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) William Shakespeare (B) Mark Twain",
     "task": "mmlu",
     "subtask": "business_ethics",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the smallest unit of matter? Options: (A) Atom (B) Electron",
@@ -339,7 +339,7 @@
     "prompt": "Question: Which planet is closest to the Sun? Options: (A) Mercury (B) Venus",
     "task": "mmlu",
     "subtask": "business_ethics",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What is the chemical symbol for gold? Options: (A) Ag (B) Au",
@@ -357,7 +357,7 @@
     "prompt": "Question: What is the chemical symbol for gold? Options: (A) Au (B) Go",
     "task": "mmlu",
     "subtask": "business_ethics",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the largest mammal in the world? Options: (A) Polar Bear (B) Blue Whale",
@@ -441,7 +441,7 @@
     "prompt": "Question: Which gas makes up most of Earth's atmosphere? Options: (A) Nitrogen (B) Oxygen",
     "task": "mmlu",
     "subtask": "abstract_algebra",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the largest mammal in the world? Options: (A) African Elephant (B) Blue Whale",
@@ -453,7 +453,7 @@
     "prompt": "Question: Which planet is closest to the Sun? Options: (A) Mars (B) Mercury",
     "task": "mmlu",
     "subtask": "abstract_algebra",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) A (B) O",
@@ -501,7 +501,7 @@
     "prompt": "Question: What is the capital of Australia? Options: (A) Canberra (B) Sydney",
     "task": "mmlu",
     "subtask": "abstract_algebra",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which gas makes up most of Earth's atmosphere? Options: (A) Nitrogen (B) Carbon Dioxide",
@@ -519,7 +519,7 @@
     "prompt": "Question: What is the largest mammal in the world? Options: (A) Blue Whale (B) African Elephant",
     "task": "mmlu",
     "subtask": "abstract_algebra",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) Charles Dickens (B) William Shakespeare",
@@ -543,13 +543,13 @@
     "prompt": "Question: What is the largest mammal in the world? Options: (A) Polar Bear (B) Blue Whale",
     "task": "mmlu",
     "subtask": "abstract_algebra",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) O (B) AB",
     "task": "mmlu",
     "subtask": "abstract_algebra",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the smallest unit of matter? Options: (A) Electron (B) Atom",
@@ -561,7 +561,7 @@
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) Mark Twain (B) William Shakespeare",
     "task": "mmlu",
     "subtask": "abstract_algebra",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the chemical symbol for gold? Options: (A) Au (B) Go",
@@ -603,7 +603,7 @@
     "prompt": "Question: What is the smallest unit of matter? Options: (A) Molecule (B) Atom",
     "task": "mmlu",
     "subtask": "abstract_algebra",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the chemical symbol for gold? Options: (A) Ag (B) Au",
@@ -639,13 +639,13 @@
     "prompt": "Question: Which gas makes up most of Earth's atmosphere? Options: (A) Argon (B) Nitrogen",
     "task": "mmlu",
     "subtask": "abstract_algebra",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What is the largest mammal in the world? Options: (A) Blue Whale (B) Polar Bear",
     "task": "mmlu",
     "subtask": "abstract_algebra",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What happens when you drop a ball? Options: (A) It falls down (B) It grows bigger",
@@ -657,19 +657,19 @@
     "prompt": "Question: Where do you put your head when you sleep? Options: (A) On a pillow (B) On a table",
     "task": "commonsenseqa",
     "subtask": "composition",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) Shoes (B) A hat",
     "task": "commonsenseqa",
     "subtask": "composition",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Wash them (B) Wear them again",
     "task": "commonsenseqa",
     "subtask": "composition",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you use to write? Options: (A) A pen (B) A plate",
@@ -693,7 +693,7 @@
     "prompt": "Question: What do you use to write? Options: (A) A pen (B) A pillow",
     "task": "commonsenseqa",
     "subtask": "composition",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What time do most people wake up? Options: (A) 3 AM (B) 7 AM",
@@ -711,7 +711,7 @@
     "prompt": "Question: What time do most people wake up? Options: (A) Noon (B) 7 AM",
     "task": "commonsenseqa",
     "subtask": "composition",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you use to write? Options: (A) A spoon (B) A pen",
@@ -735,13 +735,13 @@
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Wash them (B) Throw them away",
     "task": "commonsenseqa",
     "subtask": "composition",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What happens when you drop a ball? Options: (A) It falls down (B) It grows bigger",
     "task": "commonsenseqa",
     "subtask": "composition",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) A scarf (B) Shoes",
@@ -759,13 +759,13 @@
     "prompt": "Question: What do you wear on your feet? Options: (A) Shoes (B) Sunglasses",
     "task": "commonsenseqa",
     "subtask": "composition",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What happens when you drop a ball? Options: (A) It disappears (B) It falls down",
     "task": "commonsenseqa",
     "subtask": "composition",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) A scarf (B) Shoes",
@@ -777,7 +777,7 @@
     "prompt": "Question: What happens when you drop a ball? Options: (A) It floats away (B) It falls down",
     "task": "commonsenseqa",
     "subtask": "composition",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It melts (B) It disappears",
@@ -795,13 +795,13 @@
     "prompt": "Question: What do you wear on your feet? Options: (A) Shoes (B) Sunglasses",
     "task": "commonsenseqa",
     "subtask": "composition",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Wash them (B) Wear them again",
     "task": "commonsenseqa",
     "subtask": "composition",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you need to make a sandwich? Options: (A) A phone (B) Bread",
@@ -813,37 +813,37 @@
     "prompt": "Question: What do you wear on your feet? Options: (A) A hat (B) Shoes",
     "task": "commonsenseqa",
     "subtask": "composition",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What time do most people wake up? Options: (A) Midnight (B) 7 AM",
     "task": "commonsenseqa",
     "subtask": "composition",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What time do most people wake up? Options: (A) 7 AM (B) 3 AM",
     "task": "commonsenseqa",
     "subtask": "composition",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What time do most people wake up? Options: (A) 8 PM (B) 7 AM",
     "task": "commonsenseqa",
     "subtask": "composition",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Where do you put your head when you sleep? Options: (A) On a pillow (B) On a chair",
     "task": "commonsenseqa",
     "subtask": "composition",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What time do most people wake up? Options: (A) Noon (B) 7 AM",
     "task": "commonsenseqa",
     "subtask": "composition",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It melts (B) It turns blue",
@@ -861,13 +861,13 @@
     "prompt": "Question: What do you wear on your feet? Options: (A) A hat (B) Shoes",
     "task": "commonsenseqa",
     "subtask": "composition",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 32 (B) 20",
     "task": "bigbench",
     "subtask": "arithmetic",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) No roses are red (B) Cannot be determined",
@@ -879,25 +879,25 @@
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) H (B) E",
     "task": "bigbench",
     "subtask": "arithmetic",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Garage (B) Road",
     "task": "bigbench",
     "subtask": "arithmetic",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Which is the odd one out: Apple, Banana, Orange, Carrot? Options: (A) Apple (B) Carrot",
     "task": "bigbench",
     "subtask": "arithmetic",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 63 (B) 59",
     "task": "bigbench",
     "subtask": "arithmetic",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) E (B) H",
@@ -909,7 +909,7 @@
     "prompt": "Question: Which is the odd one out: Apple, Banana, Orange, Carrot? Options: (A) Carrot (B) Apple",
     "task": "bigbench",
     "subtask": "arithmetic",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) E (B) H",
@@ -921,7 +921,7 @@
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 63 (B) 55",
     "task": "bigbench",
     "subtask": "arithmetic",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Which is the odd one out: Apple, Banana, Orange, Carrot? Options: (A) Carrot (B) Banana",
@@ -933,7 +933,7 @@
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) E (B) H",
     "task": "bigbench",
     "subtask": "arithmetic",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Tuesday (B) Saturday",
@@ -963,7 +963,7 @@
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Saturday (B) Monday",
     "task": "bigbench",
     "subtask": "arithmetic",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Monday (B) Saturday",
@@ -987,7 +987,7 @@
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 47 (B) 63",
     "task": "bigbench",
     "subtask": "arithmetic",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Which is the odd one out: Apple, Banana, Orange, Carrot? Options: (A) Carrot (B) Banana",
@@ -1017,7 +1017,7 @@
     "prompt": "Question: What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 32 (B) 24",
     "task": "bigbench",
     "subtask": "arithmetic",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) Cannot be determined (B) Some roses are red",
@@ -1029,31 +1029,31 @@
     "prompt": "Question: What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 64 (B) 32",
     "task": "bigbench",
     "subtask": "arithmetic",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) Cannot be determined (B) No roses are red",
     "task": "bigbench",
     "subtask": "arithmetic",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) T (B) E",
     "task": "bigbench",
     "subtask": "arithmetic",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which is the odd one out: Apple, Banana, Orange, Carrot? Options: (A) Banana (B) Carrot",
     "task": "bigbench",
     "subtask": "arithmetic",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which is the odd one out: Apple, Banana, Orange, Carrot? Options: (A) Banana (B) Carrot",
     "task": "bigbench",
     "subtask": "arithmetic",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Engine (B) Garage",
@@ -1077,25 +1077,25 @@
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 55 (B) 63",
     "task": "bigbench",
     "subtask": "arithmetic",
-    "guided": 1.0
+    "guided": 3.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) T (B) E",
     "task": "bigbench",
     "subtask": "analogical_reasoning",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) No roses are red (B) Cannot be determined",
     "task": "bigbench",
     "subtask": "analogical_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Sunday (B) Saturday",
     "task": "bigbench",
     "subtask": "analogical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: If a train travels 60 mph for 2 hours, how far does it go? Options: (A) 120 miles (B) 62 miles",
@@ -1107,7 +1107,7 @@
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) T (B) E",
     "task": "bigbench",
     "subtask": "analogical_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) Cannot be determined (B) No roses are red",
@@ -1125,7 +1125,7 @@
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 55 (B) 63",
     "task": "bigbench",
     "subtask": "analogical_reasoning",
-    "guided": 3.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Saturday (B) Sunday",
@@ -1167,31 +1167,31 @@
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 47 (B) 63",
     "task": "bigbench",
     "subtask": "analogical_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) E (B) H",
     "task": "bigbench",
     "subtask": "analogical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) H (B) E",
     "task": "bigbench",
     "subtask": "analogical_reasoning",
-    "guided": 3.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) Some roses are red (B) Cannot be determined",
     "task": "bigbench",
     "subtask": "analogical_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 55 (B) 63",
     "task": "bigbench",
     "subtask": "analogical_reasoning",
-    "guided": 3.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: If a train travels 60 mph for 2 hours, how far does it go? Options: (A) 120 miles (B) 30 miles",
@@ -1215,49 +1215,49 @@
     "prompt": "Question: If a train travels 60 mph for 2 hours, how far does it go? Options: (A) 30 miles (B) 120 miles",
     "task": "bigbench",
     "subtask": "analogical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) Cannot be determined (B) All roses are red",
     "task": "bigbench",
     "subtask": "analogical_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 32 (B) 24",
     "task": "bigbench",
     "subtask": "analogical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) E (B) T",
     "task": "bigbench",
     "subtask": "analogical_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) E (B) H",
     "task": "bigbench",
     "subtask": "analogical_reasoning",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 63 (B) 47",
     "task": "bigbench",
     "subtask": "analogical_reasoning",
-    "guided": 3.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) No roses are red (B) Cannot be determined",
     "task": "bigbench",
     "subtask": "analogical_reasoning",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which is the odd one out: Apple, Banana, Orange, Carrot? Options: (A) Orange (B) Carrot",
     "task": "bigbench",
     "subtask": "analogical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 63 (B) 55",
@@ -1275,7 +1275,7 @@
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) N (B) E",
     "task": "bigbench",
     "subtask": "analogical_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Road (B) Garage",
@@ -1287,31 +1287,31 @@
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 47 (B) 63",
     "task": "bigbench",
     "subtask": "analogical_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: If a train travels 60 mph for 2 hours, how far does it go? Options: (A) 120 miles (B) 62 miles",
     "task": "bigbench",
     "subtask": "analogical_reasoning",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It melts (B) It gets bigger",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What happens when you drop a ball? Options: (A) It disappears (B) It falls down",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you need to make a sandwich? Options: (A) Bread (B) A car",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Where do you put your head when you sleep? Options: (A) On the floor (B) On a pillow",
@@ -1329,19 +1329,19 @@
     "prompt": "Question: What do you use to write? Options: (A) A pillow (B) A pen",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Where do you put your head when you sleep? Options: (A) On a pillow (B) On the floor",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Wash them (B) Eat them",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Wash them (B) Give them to a dog",
@@ -1353,13 +1353,13 @@
     "prompt": "Question: What do you use to write? Options: (A) A spoon (B) A pen",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Give them to a dog (B) Wash them",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Throw them away (B) Wash them",
@@ -1371,13 +1371,13 @@
     "prompt": "Question: What happens when you drop a ball? Options: (A) It floats away (B) It falls down",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It melts (B) It gets bigger",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) A hat (B) Shoes",
@@ -1389,25 +1389,25 @@
     "prompt": "Question: What do you wear on your feet? Options: (A) A hat (B) Shoes",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What time do most people wake up? Options: (A) 7 AM (B) Noon",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Give them to a dog (B) Wash them",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It melts (B) It disappears",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you need to make a sandwich? Options: (A) Bread (B) A book",
@@ -1419,25 +1419,25 @@
     "prompt": "Question: Where do you put your head when you sleep? Options: (A) On a chair (B) On a pillow",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What happens when you drop a ball? Options: (A) It disappears (B) It falls down",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) Shoes (B) Sunglasses",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) Shoes (B) Gloves",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What time do most people wake up? Options: (A) 7 AM (B) Noon",
@@ -1449,13 +1449,13 @@
     "prompt": "Question: What happens when you drop a ball? Options: (A) It falls down (B) It changes color",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you use to write? Options: (A) A pen (B) A spoon",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Where do you put your head when you sleep? Options: (A) On a table (B) On a pillow",
@@ -1467,7 +1467,7 @@
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It melts (B) It turns blue",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What time do most people wake up? Options: (A) 7 AM (B) 3 AM",
@@ -1485,7 +1485,7 @@
     "prompt": "Question: What do you need to make a sandwich? Options: (A) A car (B) Bread",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) A hat (B) Shoes",
@@ -1497,19 +1497,19 @@
     "prompt": "Question: What happens when you drop a ball? Options: (A) It disappears (B) It falls down",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Where do you put your head when you sleep? Options: (A) On a pillow (B) On a chair",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) Gloves (B) Shoes",
     "task": "commonsenseqa",
     "subtask": "comparison",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the chemical symbol for gold? Options: (A) Ag (B) Au",
@@ -1533,25 +1533,25 @@
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) Mark Twain (B) William Shakespeare",
     "task": "mmlu",
     "subtask": "clinical_knowledge",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) AB (B) O",
     "task": "mmlu",
     "subtask": "clinical_knowledge",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) A (B) O",
     "task": "mmlu",
     "subtask": "clinical_knowledge",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What is the smallest unit of matter? Options: (A) Molecule (B) Atom",
     "task": "mmlu",
     "subtask": "clinical_knowledge",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which gas makes up most of Earth's atmosphere? Options: (A) Oxygen (B) Nitrogen",
@@ -1569,7 +1569,7 @@
     "prompt": "Question: Which planet is closest to the Sun? Options: (A) Earth (B) Mercury",
     "task": "mmlu",
     "subtask": "clinical_knowledge",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which planet is closest to the Sun? Options: (A) Mercury (B) Venus",
@@ -1581,7 +1581,7 @@
     "prompt": "Question: Which gas makes up most of Earth's atmosphere? Options: (A) Nitrogen (B) Argon",
     "task": "mmlu",
     "subtask": "clinical_knowledge",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which planet is closest to the Sun? Options: (A) Mercury (B) Mars",
@@ -1617,13 +1617,13 @@
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) William Shakespeare (B) Mark Twain",
     "task": "mmlu",
     "subtask": "clinical_knowledge",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What is the largest mammal in the world? Options: (A) Blue Whale (B) Giraffe",
     "task": "mmlu",
     "subtask": "clinical_knowledge",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What is the chemical symbol for gold? Options: (A) Gd (B) Au",
@@ -1641,7 +1641,7 @@
     "prompt": "Question: Which gas makes up most of Earth's atmosphere? Options: (A) Nitrogen (B) Argon",
     "task": "mmlu",
     "subtask": "clinical_knowledge",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) Jane Austen (B) William Shakespeare",
@@ -1653,13 +1653,13 @@
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) AB (B) O",
     "task": "mmlu",
     "subtask": "clinical_knowledge",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What is the largest mammal in the world? Options: (A) Polar Bear (B) Blue Whale",
     "task": "mmlu",
     "subtask": "clinical_knowledge",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What is the capital of Australia? Options: (A) Canberra (B) Sydney",
@@ -1671,7 +1671,7 @@
     "prompt": "Question: What is the capital of Australia? Options: (A) Canberra (B) Melbourne",
     "task": "mmlu",
     "subtask": "clinical_knowledge",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) Jane Austen (B) William Shakespeare",
@@ -1713,7 +1713,7 @@
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) Mark Twain (B) William Shakespeare",
     "task": "mmlu",
     "subtask": "clinical_knowledge",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) O (B) A",
@@ -1725,7 +1725,7 @@
     "prompt": "Question: What is the largest mammal in the world? Options: (A) Blue Whale (B) Polar Bear",
     "task": "mmlu",
     "subtask": "clinical_knowledge",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) Shoes (B) A hat",
@@ -1749,13 +1749,13 @@
     "prompt": "Question: What happens when you drop a ball? Options: (A) It grows bigger (B) It falls down",
     "task": "commonsenseqa",
     "subtask": "logical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) Shoes (B) Gloves",
     "task": "commonsenseqa",
     "subtask": "logical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It turns blue (B) It melts",
@@ -1773,7 +1773,7 @@
     "prompt": "Question: What time do most people wake up? Options: (A) 3 AM (B) 7 AM",
     "task": "commonsenseqa",
     "subtask": "logical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What time do most people wake up? Options: (A) 7 AM (B) 3 AM",
@@ -1785,31 +1785,31 @@
     "prompt": "Question: What time do most people wake up? Options: (A) 8 PM (B) 7 AM",
     "task": "commonsenseqa",
     "subtask": "logical_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What do you need to make a sandwich? Options: (A) A phone (B) Bread",
     "task": "commonsenseqa",
     "subtask": "logical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It melts (B) It turns blue",
     "task": "commonsenseqa",
     "subtask": "logical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What do you need to make a sandwich? Options: (A) A computer (B) Bread",
     "task": "commonsenseqa",
     "subtask": "logical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Wash them (B) Wear them again",
     "task": "commonsenseqa",
     "subtask": "logical_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) Shoes (B) A scarf",
@@ -1821,13 +1821,13 @@
     "prompt": "Question: What do you wear on your feet? Options: (A) A scarf (B) Shoes",
     "task": "commonsenseqa",
     "subtask": "logical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It melts (B) It turns blue",
     "task": "commonsenseqa",
     "subtask": "logical_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) Gloves (B) Shoes",
@@ -1845,13 +1845,13 @@
     "prompt": "Question: What do you need to make a sandwich? Options: (A) A phone (B) Bread",
     "task": "commonsenseqa",
     "subtask": "logical_reasoning",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) Sunglasses (B) Shoes",
     "task": "commonsenseqa",
     "subtask": "logical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What do you need to make a sandwich? Options: (A) Bread (B) A car",
@@ -1899,7 +1899,7 @@
     "prompt": "Question: What do you wear on your feet? Options: (A) Shoes (B) A scarf",
     "task": "commonsenseqa",
     "subtask": "logical_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What happens when you drop a ball? Options: (A) It falls down (B) It grows bigger",
@@ -1917,7 +1917,7 @@
     "prompt": "Question: Where do you put your head when you sleep? Options: (A) On a car (B) On a pillow",
     "task": "commonsenseqa",
     "subtask": "logical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Where do you put your head when you sleep? Options: (A) On a pillow (B) On a table",
@@ -1935,13 +1935,13 @@
     "prompt": "Question: What do you use to write? Options: (A) A plate (B) A pen",
     "task": "commonsenseqa",
     "subtask": "logical_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What happens when you drop a ball? Options: (A) It falls down (B) It grows bigger",
     "task": "commonsenseqa",
     "subtask": "logical_reasoning",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Is water wet? Options: (A) Yes (B) No",
@@ -1953,7 +1953,7 @@
     "prompt": "Question: Can fish survive on land? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "counterfactual_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Do trees produce oxygen? Options: (A) No (B) Yes",
@@ -1965,7 +1965,7 @@
     "prompt": "Question: Is water wet? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "counterfactual_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Can fish survive on land? Options: (A) Yes (B) No",
@@ -1983,7 +1983,7 @@
     "prompt": "Question: Is water wet? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "counterfactual_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Do more people live in cities or rural areas worldwide? Options: (A) Cities (B) Rural areas",
@@ -1995,18 +1995,12 @@
     "prompt": "Question: Is water wet? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "counterfactual_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Do more people live in cities or rural areas worldwide? Options: (A) Rural areas (B) Cities",
     "task": "strategyqa",
     "subtask": "counterfactual_reasoning",
-    "guided": 2.0
-  },
-  {
-    "prompt": "Question: Do birds have teeth? Options: (A) No (B) Yes",
-    "task": "strategyqa",
-    "subtask": "counterfactual_reasoning",
     "guided": 1.0
   },
   {
@@ -2014,12 +2008,18 @@
     "task": "strategyqa",
     "subtask": "counterfactual_reasoning",
     "guided": 1.0
+  },
+  {
+    "prompt": "Question: Do birds have teeth? Options: (A) No (B) Yes",
+    "task": "strategyqa",
+    "subtask": "counterfactual_reasoning",
+    "guided": 4.0
   },
   {
     "prompt": "Question: Is water wet? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "counterfactual_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Can fish survive on land? Options: (A) Yes (B) No",
@@ -2043,7 +2043,7 @@
     "prompt": "Question: Do more people live in cities or rural areas worldwide? Options: (A) Rural areas (B) Cities",
     "task": "strategyqa",
     "subtask": "counterfactual_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Is the sky blue during the day? Options: (A) No (B) Yes",
@@ -2067,7 +2067,7 @@
     "prompt": "Question: Is water wet? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "counterfactual_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do more people live in cities or rural areas worldwide? Options: (A) Rural areas (B) Cities",
@@ -2085,25 +2085,25 @@
     "prompt": "Question: Is the Earth round? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "counterfactual_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Can fish survive on land? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "counterfactual_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do humans have tails? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "counterfactual_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Do trees produce oxygen? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "counterfactual_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do birds have teeth? Options: (A) No (B) Yes",
@@ -2121,7 +2121,7 @@
     "prompt": "Question: Do more people live in cities or rural areas worldwide? Options: (A) Rural areas (B) Cities",
     "task": "strategyqa",
     "subtask": "counterfactual_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Do more people live in cities or rural areas worldwide? Options: (A) Rural areas (B) Cities",
@@ -2145,7 +2145,7 @@
     "prompt": "Question: Is the Earth round? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "counterfactual_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Can fish survive on land? Options: (A) Yes (B) No",
@@ -2163,7 +2163,7 @@
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) O (B) AB",
     "task": "mmlu",
     "subtask": "astronomy",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What is the chemical symbol for gold? Options: (A) Au (B) Go",
@@ -2175,13 +2175,13 @@
     "prompt": "Question: Which planet is closest to the Sun? Options: (A) Mars (B) Mercury",
     "task": "mmlu",
     "subtask": "astronomy",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the smallest unit of matter? Options: (A) Electron (B) Atom",
     "task": "mmlu",
     "subtask": "astronomy",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which gas makes up most of Earth's atmosphere? Options: (A) Nitrogen (B) Carbon Dioxide",
@@ -2193,13 +2193,13 @@
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) Charles Dickens (B) William Shakespeare",
     "task": "mmlu",
     "subtask": "astronomy",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Which planet is closest to the Sun? Options: (A) Mercury (B) Earth",
     "task": "mmlu",
     "subtask": "astronomy",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What is the largest mammal in the world? Options: (A) Blue Whale (B) Polar Bear",
@@ -2211,13 +2211,13 @@
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) O (B) AB",
     "task": "mmlu",
     "subtask": "astronomy",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) Charles Dickens (B) William Shakespeare",
     "task": "mmlu",
     "subtask": "astronomy",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What is the capital of Australia? Options: (A) Sydney (B) Canberra",
@@ -2241,13 +2241,13 @@
     "prompt": "Question: What is the capital of Australia? Options: (A) Canberra (B) Melbourne",
     "task": "mmlu",
     "subtask": "astronomy",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the smallest unit of matter? Options: (A) Molecule (B) Atom",
     "task": "mmlu",
     "subtask": "astronomy",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Which gas makes up most of Earth's atmosphere? Options: (A) Nitrogen (B) Argon",
@@ -2265,19 +2265,19 @@
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) B (B) O",
     "task": "mmlu",
     "subtask": "astronomy",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What is the capital of Australia? Options: (A) Melbourne (B) Canberra",
     "task": "mmlu",
     "subtask": "astronomy",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) O (B) B",
     "task": "mmlu",
     "subtask": "astronomy",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What is the capital of Australia? Options: (A) Sydney (B) Canberra",
@@ -2289,37 +2289,37 @@
     "prompt": "Question: What is the smallest unit of matter? Options: (A) Proton (B) Atom",
     "task": "mmlu",
     "subtask": "astronomy",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) Charles Dickens (B) William Shakespeare",
     "task": "mmlu",
     "subtask": "astronomy",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What is the largest mammal in the world? Options: (A) Giraffe (B) Blue Whale",
     "task": "mmlu",
     "subtask": "astronomy",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the largest mammal in the world? Options: (A) African Elephant (B) Blue Whale",
     "task": "mmlu",
     "subtask": "astronomy",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which planet is closest to the Sun? Options: (A) Mercury (B) Venus",
     "task": "mmlu",
     "subtask": "astronomy",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) William Shakespeare (B) Charles Dickens",
     "task": "mmlu",
     "subtask": "astronomy",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What is the capital of Australia? Options: (A) Canberra (B) Perth",
@@ -2337,7 +2337,7 @@
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) Jane Austen (B) William Shakespeare",
     "task": "mmlu",
     "subtask": "astronomy",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Which gas makes up most of Earth's atmosphere? Options: (A) Nitrogen (B) Argon",
@@ -2349,7 +2349,7 @@
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) Mark Twain (B) William Shakespeare",
     "task": "mmlu",
     "subtask": "astronomy",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What is the smallest unit of matter? Options: (A) Atom (B) Proton",
@@ -2361,7 +2361,7 @@
     "prompt": "Question: Which gas makes up most of Earth's atmosphere? Options: (A) Nitrogen (B) Argon",
     "task": "mmlu",
     "subtask": "astronomy",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What is the largest mammal in the world? Options: (A) African Elephant (B) Blue Whale",
@@ -2409,19 +2409,19 @@
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) Some roses are red (B) Cannot be determined",
     "task": "bigbench",
     "subtask": "code_line_description",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Saturday (B) Sunday",
     "task": "bigbench",
     "subtask": "code_line_description",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 63 (B) 55",
     "task": "bigbench",
     "subtask": "code_line_description",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Which is the odd one out: Apple, Banana, Orange, Carrot? Options: (A) Carrot (B) Orange",
@@ -2433,19 +2433,19 @@
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Tuesday (B) Saturday",
     "task": "bigbench",
     "subtask": "code_line_description",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 63 (B) 59",
     "task": "bigbench",
     "subtask": "code_line_description",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 20 (B) 32",
     "task": "bigbench",
     "subtask": "code_line_description",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Saturday (B) Tuesday",
@@ -2457,13 +2457,13 @@
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 63 (B) 47",
     "task": "bigbench",
     "subtask": "code_line_description",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 47 (B) 63",
     "task": "bigbench",
     "subtask": "code_line_description",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Saturday (B) Sunday",
@@ -2487,31 +2487,31 @@
     "prompt": "Question: Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Engine (B) Garage",
     "task": "bigbench",
     "subtask": "code_line_description",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Sunday (B) Saturday",
     "task": "bigbench",
     "subtask": "code_line_description",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) N (B) E",
     "task": "bigbench",
     "subtask": "code_line_description",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) T (B) E",
     "task": "bigbench",
     "subtask": "code_line_description",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Saturday (B) Monday",
     "task": "bigbench",
     "subtask": "code_line_description",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) Cannot be determined (B) All roses are red",
@@ -2535,13 +2535,13 @@
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) Some roses are red (B) Cannot be determined",
     "task": "bigbench",
     "subtask": "code_line_description",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) N (B) E",
     "task": "bigbench",
     "subtask": "code_line_description",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 32 (B) 24",
@@ -2559,19 +2559,19 @@
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) N (B) E",
     "task": "bigbench",
     "subtask": "code_line_description",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Saturday (B) Tuesday",
     "task": "bigbench",
     "subtask": "code_line_description",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: If a train travels 60 mph for 2 hours, how far does it go? Options: (A) 62 miles (B) 120 miles",
     "task": "bigbench",
     "subtask": "code_line_description",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Saturday (B) Tuesday",
@@ -2583,37 +2583,37 @@
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) No roses are red (B) Cannot be determined",
     "task": "bigbench",
     "subtask": "code_line_description",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) E (B) N",
     "task": "bigbench",
     "subtask": "code_line_description",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) William Shakespeare (B) Charles Dickens",
     "task": "mmlu",
     "subtask": "anatomy",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What is the largest mammal in the world? Options: (A) Polar Bear (B) Blue Whale",
     "task": "mmlu",
     "subtask": "anatomy",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Which gas makes up most of Earth's atmosphere? Options: (A) Oxygen (B) Nitrogen",
     "task": "mmlu",
     "subtask": "anatomy",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What is the smallest unit of matter? Options: (A) Atom (B) Electron",
     "task": "mmlu",
     "subtask": "anatomy",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What is the smallest unit of matter? Options: (A) Atom (B) Electron",
@@ -2637,13 +2637,13 @@
     "prompt": "Question: What is the largest mammal in the world? Options: (A) Polar Bear (B) Blue Whale",
     "task": "mmlu",
     "subtask": "anatomy",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) Charles Dickens (B) William Shakespeare",
     "task": "mmlu",
     "subtask": "anatomy",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) O (B) B",
@@ -2661,7 +2661,7 @@
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) Jane Austen (B) William Shakespeare",
     "task": "mmlu",
     "subtask": "anatomy",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) William Shakespeare (B) Charles Dickens",
@@ -2679,7 +2679,7 @@
     "prompt": "Question: What is the largest mammal in the world? Options: (A) Blue Whale (B) Giraffe",
     "task": "mmlu",
     "subtask": "anatomy",
-    "guided": 1.0
+    "guided": 10.0
   },
   {
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) Jane Austen (B) William Shakespeare",
@@ -2691,31 +2691,31 @@
     "prompt": "Question: Which gas makes up most of Earth's atmosphere? Options: (A) Nitrogen (B) Argon",
     "task": "mmlu",
     "subtask": "anatomy",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What is the smallest unit of matter? Options: (A) Molecule (B) Atom",
     "task": "mmlu",
     "subtask": "anatomy",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) William Shakespeare (B) Mark Twain",
     "task": "mmlu",
     "subtask": "anatomy",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) Mark Twain (B) William Shakespeare",
     "task": "mmlu",
     "subtask": "anatomy",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What is the largest mammal in the world? Options: (A) Blue Whale (B) African Elephant",
     "task": "mmlu",
     "subtask": "anatomy",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) O (B) A",
@@ -2733,19 +2733,19 @@
     "prompt": "Question: What is the smallest unit of matter? Options: (A) Atom (B) Proton",
     "task": "mmlu",
     "subtask": "anatomy",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) O (B) A",
     "task": "mmlu",
     "subtask": "anatomy",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the capital of Australia? Options: (A) Melbourne (B) Canberra",
     "task": "mmlu",
     "subtask": "anatomy",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the capital of Australia? Options: (A) Canberra (B) Sydney",
@@ -2769,7 +2769,7 @@
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) O (B) B",
     "task": "mmlu",
     "subtask": "anatomy",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What is the smallest unit of matter? Options: (A) Atom (B) Molecule",
@@ -2781,7 +2781,7 @@
     "prompt": "Question: Which gas makes up most of Earth's atmosphere? Options: (A) Nitrogen (B) Carbon Dioxide",
     "task": "mmlu",
     "subtask": "anatomy",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the capital of Australia? Options: (A) Canberra (B) Melbourne",
@@ -2793,25 +2793,25 @@
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) William Shakespeare (B) Mark Twain",
     "task": "mmlu",
     "subtask": "anatomy",
+    "guided": 4.0
+  },
+  {
+    "prompt": "Question: What is the smallest unit of matter? Options: (A) Electron (B) Atom",
+    "task": "mmlu",
+    "subtask": "anatomy",
     "guided": 1.0
   },
   {
     "prompt": "Question: What is the smallest unit of matter? Options: (A) Electron (B) Atom",
     "task": "mmlu",
     "subtask": "anatomy",
-    "guided": 2.0
-  },
-  {
-    "prompt": "Question: What is the smallest unit of matter? Options: (A) Electron (B) Atom",
-    "task": "mmlu",
-    "subtask": "anatomy",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What happens when you drop a ball? Options: (A) It changes color (B) It falls down",
     "task": "commonsenseqa",
     "subtask": "commonsense_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) Shoes (B) Sunglasses",
@@ -2823,7 +2823,7 @@
     "prompt": "Question: What happens when you drop a ball? Options: (A) It changes color (B) It falls down",
     "task": "commonsenseqa",
     "subtask": "commonsense_reasoning",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you need to make a sandwich? Options: (A) Bread (B) A computer",
@@ -2835,7 +2835,7 @@
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It melts (B) It gets colder",
     "task": "commonsenseqa",
     "subtask": "commonsense_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What do you need to make a sandwich? Options: (A) Bread (B) A book",
@@ -2853,7 +2853,7 @@
     "prompt": "Question: What do you use to write? Options: (A) A pen (B) A plate",
     "task": "commonsenseqa",
     "subtask": "commonsense_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) A hat (B) Shoes",
@@ -2889,13 +2889,13 @@
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It gets colder (B) It melts",
     "task": "commonsenseqa",
     "subtask": "commonsense_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) Sunglasses (B) Shoes",
     "task": "commonsenseqa",
     "subtask": "commonsense_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What happens when you drop a ball? Options: (A) It falls down (B) It changes color",
@@ -2907,13 +2907,13 @@
     "prompt": "Question: What do you wear on your feet? Options: (A) A scarf (B) Shoes",
     "task": "commonsenseqa",
     "subtask": "commonsense_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you use to write? Options: (A) A shoe (B) A pen",
     "task": "commonsenseqa",
     "subtask": "commonsense_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Throw them away (B) Wash them",
@@ -2943,7 +2943,7 @@
     "prompt": "Question: What do you use to write? Options: (A) A pen (B) A shoe",
     "task": "commonsenseqa",
     "subtask": "commonsense_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It gets bigger (B) It melts",
@@ -2955,13 +2955,13 @@
     "prompt": "Question: What happens when you drop a ball? Options: (A) It falls down (B) It changes color",
     "task": "commonsenseqa",
     "subtask": "commonsense_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you need to make a sandwich? Options: (A) Bread (B) A phone",
     "task": "commonsenseqa",
     "subtask": "commonsense_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Where do you put your head when you sleep? Options: (A) On a pillow (B) On a chair",
@@ -2973,25 +2973,25 @@
     "prompt": "Question: What happens when you drop a ball? Options: (A) It falls down (B) It grows bigger",
     "task": "commonsenseqa",
     "subtask": "commonsense_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Throw them away (B) Wash them",
     "task": "commonsenseqa",
     "subtask": "commonsense_reasoning",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What time do most people wake up? Options: (A) 7 AM (B) 8 PM",
     "task": "commonsenseqa",
     "subtask": "commonsense_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Throw them away (B) Wash them",
     "task": "commonsenseqa",
     "subtask": "commonsense_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What do you use to write? Options: (A) A pen (B) A spoon",
@@ -3015,7 +3015,7 @@
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It melts (B) It turns blue",
     "task": "commonsenseqa",
     "subtask": "commonsense_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) Shoes (B) Sunglasses",
@@ -3027,7 +3027,7 @@
     "prompt": "Question: Do birds have teeth? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "commonsense_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Is water wet? Options: (A) No (B) Yes",
@@ -3051,7 +3051,7 @@
     "prompt": "Question: Do more people live in cities or rural areas worldwide? Options: (A) Cities (B) Rural areas",
     "task": "strategyqa",
     "subtask": "commonsense_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Can fish survive on land? Options: (A) No (B) Yes",
@@ -3063,7 +3063,7 @@
     "prompt": "Question: Do humans have tails? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "commonsense_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Is water wet? Options: (A) Yes (B) No",
@@ -3105,7 +3105,7 @@
     "prompt": "Question: Do birds have teeth? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "commonsense_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do more people live in cities or rural areas worldwide? Options: (A) Cities (B) Rural areas",
@@ -3117,13 +3117,13 @@
     "prompt": "Question: Do birds have teeth? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "commonsense_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Do birds have teeth? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "commonsense_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do more people live in cities or rural areas worldwide? Options: (A) Cities (B) Rural areas",
@@ -3141,7 +3141,7 @@
     "prompt": "Question: Do humans have tails? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "commonsense_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Is water wet? Options: (A) No (B) Yes",
@@ -3153,7 +3153,7 @@
     "prompt": "Question: Do birds have teeth? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "commonsense_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do birds have teeth? Options: (A) No (B) Yes",
@@ -3177,13 +3177,13 @@
     "prompt": "Question: Do more people live in cities or rural areas worldwide? Options: (A) Rural areas (B) Cities",
     "task": "strategyqa",
     "subtask": "commonsense_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Is water wet? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "commonsense_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do more people live in cities or rural areas worldwide? Options: (A) Cities (B) Rural areas",
@@ -3225,7 +3225,7 @@
     "prompt": "Question: Can fish survive on land? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "commonsense_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Do more people live in cities or rural areas worldwide? Options: (A) Cities (B) Rural areas",
@@ -3243,7 +3243,7 @@
     "prompt": "Question: Do trees produce oxygen? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "multi_step_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Do birds have teeth? Options: (A) No (B) Yes",
@@ -3255,13 +3255,13 @@
     "prompt": "Question: Is the Earth round? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "multi_step_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do more people live in cities or rural areas worldwide? Options: (A) Rural areas (B) Cities",
     "task": "strategyqa",
     "subtask": "multi_step_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Do more people live in cities or rural areas worldwide? Options: (A) Cities (B) Rural areas",
@@ -3273,7 +3273,7 @@
     "prompt": "Question: Do humans have tails? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "multi_step_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Is water wet? Options: (A) No (B) Yes",
@@ -3285,7 +3285,7 @@
     "prompt": "Question: Is the sky blue during the day? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "multi_step_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Is the Earth round? Options: (A) No (B) Yes",
@@ -3297,7 +3297,7 @@
     "prompt": "Question: Do trees produce oxygen? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "multi_step_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Do trees produce oxygen? Options: (A) Yes (B) No",
@@ -3315,7 +3315,7 @@
     "prompt": "Question: Do more people live in cities or rural areas worldwide? Options: (A) Rural areas (B) Cities",
     "task": "strategyqa",
     "subtask": "multi_step_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Is water wet? Options: (A) Yes (B) No",
@@ -3327,7 +3327,7 @@
     "prompt": "Question: Do humans have tails? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "multi_step_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do humans have tails? Options: (A) Yes (B) No",
@@ -3345,7 +3345,7 @@
     "prompt": "Question: Do trees produce oxygen? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "multi_step_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Can fish survive on land? Options: (A) Yes (B) No",
@@ -3363,13 +3363,13 @@
     "prompt": "Question: Do birds have teeth? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "multi_step_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Do more people live in cities or rural areas worldwide? Options: (A) Rural areas (B) Cities",
     "task": "strategyqa",
     "subtask": "multi_step_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Do birds have teeth? Options: (A) Yes (B) No",
@@ -3399,7 +3399,7 @@
     "prompt": "Question: Is the Earth round? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "multi_step_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do humans have tails? Options: (A) No (B) Yes",
@@ -3423,13 +3423,13 @@
     "prompt": "Question: Do birds have teeth? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "multi_step_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do birds have teeth? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "multi_step_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Is water wet? Options: (A) Yes (B) No",
@@ -3441,7 +3441,7 @@
     "prompt": "Question: Can fish survive on land? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "multi_step_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do humans have tails? Options: (A) No (B) Yes",
@@ -3459,7 +3459,7 @@
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) All roses are red (B) Cannot be determined",
     "task": "bigbench",
     "subtask": "cause_and_effect",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Monday (B) Saturday",
@@ -3489,7 +3489,7 @@
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 63 (B) 47",
     "task": "bigbench",
     "subtask": "cause_and_effect",
-    "guided": 3.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Garage (B) Road",
@@ -3501,13 +3501,13 @@
     "prompt": "Question: Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Garage (B) Engine",
     "task": "bigbench",
     "subtask": "cause_and_effect",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) T (B) E",
     "task": "bigbench",
     "subtask": "cause_and_effect",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) T (B) E",
@@ -3531,7 +3531,7 @@
     "prompt": "Question: Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Road (B) Garage",
     "task": "bigbench",
     "subtask": "cause_and_effect",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Tuesday (B) Saturday",
@@ -3549,19 +3549,19 @@
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) T (B) E",
     "task": "bigbench",
     "subtask": "cause_and_effect",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) E (B) H",
     "task": "bigbench",
     "subtask": "cause_and_effect",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Driver (B) Garage",
     "task": "bigbench",
     "subtask": "cause_and_effect",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: If a train travels 60 mph for 2 hours, how far does it go? Options: (A) 100 miles (B) 120 miles",
@@ -3573,19 +3573,19 @@
     "prompt": "Question: Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Garage (B) Engine",
     "task": "bigbench",
     "subtask": "cause_and_effect",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: If a train travels 60 mph for 2 hours, how far does it go? Options: (A) 120 miles (B) 62 miles",
     "task": "bigbench",
     "subtask": "cause_and_effect",
-    "guided": 2.0
+    "guided": 6.0
   },
   {
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) Cannot be determined (B) All roses are red",
     "task": "bigbench",
     "subtask": "cause_and_effect",
-    "guided": 3.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Saturday (B) Sunday",
@@ -3603,7 +3603,7 @@
     "prompt": "Question: If a train travels 60 mph for 2 hours, how far does it go? Options: (A) 100 miles (B) 120 miles",
     "task": "bigbench",
     "subtask": "cause_and_effect",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) E (B) H",
@@ -3615,25 +3615,25 @@
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) Cannot be determined (B) All roses are red",
     "task": "bigbench",
     "subtask": "cause_and_effect",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 47 (B) 63",
     "task": "bigbench",
     "subtask": "cause_and_effect",
+    "guided": 1.0
+  },
+  {
+    "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) T (B) E",
+    "task": "bigbench",
+    "subtask": "cause_and_effect",
     "guided": 2.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) T (B) E",
     "task": "bigbench",
     "subtask": "cause_and_effect",
-    "guided": 1.0
-  },
-  {
-    "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) T (B) E",
-    "task": "bigbench",
-    "subtask": "cause_and_effect",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Saturday (B) Tuesday",
@@ -3663,7 +3663,7 @@
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) Some roses are red (B) Cannot be determined",
     "task": "bigbench",
     "subtask": "cause_and_effect",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Road (B) Garage",
@@ -3681,19 +3681,19 @@
     "prompt": "Question: What do you use to write? Options: (A) A pen (B) A plate",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It turns blue (B) It melts",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) Shoes (B) A scarf",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) Gloves (B) Shoes",
@@ -3711,7 +3711,7 @@
     "prompt": "Question: What do you use to write? Options: (A) A plate (B) A pen",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you need to make a sandwich? Options: (A) Bread (B) A phone",
@@ -3729,7 +3729,7 @@
     "prompt": "Question: What time do most people wake up? Options: (A) 7 AM (B) Noon",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) A scarf (B) Shoes",
@@ -3741,25 +3741,25 @@
     "prompt": "Question: Where do you put your head when you sleep? Options: (A) On a car (B) On a pillow",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What time do most people wake up? Options: (A) Midnight (B) 7 AM",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What happens when you drop a ball? Options: (A) It changes color (B) It falls down",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What time do most people wake up? Options: (A) Midnight (B) 7 AM",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What time do most people wake up? Options: (A) 8 PM (B) 7 AM",
@@ -3777,55 +3777,55 @@
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Wear them again (B) Wash them",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Eat them (B) Wash them",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Where do you put your head when you sleep? Options: (A) On a pillow (B) On a table",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Wear them again (B) Wash them",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What happens when you drop a ball? Options: (A) It falls down (B) It disappears",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you need to make a sandwich? Options: (A) A computer (B) Bread",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you use to write? Options: (A) A pen (B) A plate",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What happens when you drop a ball? Options: (A) It changes color (B) It falls down",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What happens when you drop a ball? Options: (A) It grows bigger (B) It falls down",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What do you need to make a sandwich? Options: (A) Bread (B) A computer",
@@ -3843,7 +3843,7 @@
     "prompt": "Question: What time do most people wake up? Options: (A) 7 AM (B) 3 AM",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Where do you put your head when you sleep? Options: (A) On a pillow (B) On a table",
@@ -3855,19 +3855,19 @@
     "prompt": "Question: What happens when you drop a ball? Options: (A) It falls down (B) It disappears",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What time do most people wake up? Options: (A) Midnight (B) 7 AM",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What happens when you drop a ball? Options: (A) It falls down (B) It changes color",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What time do most people wake up? Options: (A) 8 PM (B) 7 AM",
@@ -3879,25 +3879,25 @@
     "prompt": "Question: What do you need to make a sandwich? Options: (A) Bread (B) A car",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Where do you put your head when you sleep? Options: (A) On a car (B) On a pillow",
     "task": "commonsenseqa",
     "subtask": "conceptual_similarity",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: If a train travels 60 mph for 2 hours, how far does it go? Options: (A) 30 miles (B) 120 miles",
     "task": "bigbench",
     "subtask": "auto_debugging",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: If a train travels 60 mph for 2 hours, how far does it go? Options: (A) 120 miles (B) 62 miles",
     "task": "bigbench",
     "subtask": "auto_debugging",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Which is the odd one out: Apple, Banana, Orange, Carrot? Options: (A) Carrot (B) Apple",
@@ -3915,7 +3915,7 @@
     "prompt": "Question: If a train travels 60 mph for 2 hours, how far does it go? Options: (A) 62 miles (B) 120 miles",
     "task": "bigbench",
     "subtask": "auto_debugging",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) Some roses are red (B) Cannot be determined",
@@ -3933,7 +3933,7 @@
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) No roses are red (B) Cannot be determined",
     "task": "bigbench",
     "subtask": "auto_debugging",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Garage (B) Engine",
@@ -3945,13 +3945,13 @@
     "prompt": "Question: What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 20 (B) 32",
     "task": "bigbench",
     "subtask": "auto_debugging",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which is the odd one out: Apple, Banana, Orange, Carrot? Options: (A) Carrot (B) Apple",
     "task": "bigbench",
     "subtask": "auto_debugging",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Saturday (B) Sunday",
@@ -3975,13 +3975,13 @@
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) E (B) T",
     "task": "bigbench",
     "subtask": "auto_debugging",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 20 (B) 32",
     "task": "bigbench",
     "subtask": "auto_debugging",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Which is the odd one out: Apple, Banana, Orange, Carrot? Options: (A) Apple (B) Carrot",
@@ -3993,7 +3993,7 @@
     "prompt": "Question: Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Garage (B) Engine",
     "task": "bigbench",
     "subtask": "auto_debugging",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: If a train travels 60 mph for 2 hours, how far does it go? Options: (A) 100 miles (B) 120 miles",
@@ -4011,7 +4011,7 @@
     "prompt": "Question: Which is the odd one out: Apple, Banana, Orange, Carrot? Options: (A) Apple (B) Carrot",
     "task": "bigbench",
     "subtask": "auto_debugging",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Road (B) Garage",
@@ -4029,13 +4029,13 @@
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) No roses are red (B) Cannot be determined",
     "task": "bigbench",
     "subtask": "auto_debugging",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which is the odd one out: Apple, Banana, Orange, Carrot? Options: (A) Apple (B) Carrot",
     "task": "bigbench",
     "subtask": "auto_debugging",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Which is the odd one out: Apple, Banana, Orange, Carrot? Options: (A) Apple (B) Carrot",
@@ -4047,19 +4047,19 @@
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Monday (B) Saturday",
     "task": "bigbench",
     "subtask": "auto_debugging",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 32 (B) 24",
     "task": "bigbench",
     "subtask": "auto_debugging",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) E (B) N",
     "task": "bigbench",
     "subtask": "auto_debugging",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: If a train travels 60 mph for 2 hours, how far does it go? Options: (A) 30 miles (B) 120 miles",
@@ -4071,19 +4071,19 @@
     "prompt": "Question: What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 32 (B) 24",
     "task": "bigbench",
     "subtask": "auto_debugging",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 20 (B) 32",
     "task": "bigbench",
     "subtask": "auto_debugging",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) Cannot be determined (B) Some roses are red",
     "task": "bigbench",
     "subtask": "auto_debugging",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Garage (B) Driver",
@@ -4095,7 +4095,7 @@
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) All roses are red (B) Cannot be determined",
     "task": "bigbench",
     "subtask": "auto_debugging",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) Cannot be determined (B) Some roses are red",
@@ -4131,7 +4131,7 @@
     "prompt": "Question: Is the Earth round? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "causal_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Is water wet? Options: (A) No (B) Yes",
@@ -4143,7 +4143,7 @@
     "prompt": "Question: Is the Earth round? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "causal_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do humans have tails? Options: (A) Yes (B) No",
@@ -4161,7 +4161,7 @@
     "prompt": "Question: Is water wet? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "causal_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Is the Earth round? Options: (A) Yes (B) No",
@@ -4209,7 +4209,7 @@
     "prompt": "Question: Do trees produce oxygen? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "causal_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Is the sky blue during the day? Options: (A) Yes (B) No",
@@ -4233,7 +4233,7 @@
     "prompt": "Question: Do more people live in cities or rural areas worldwide? Options: (A) Rural areas (B) Cities",
     "task": "strategyqa",
     "subtask": "causal_reasoning",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Is water wet? Options: (A) Yes (B) No",
@@ -4251,7 +4251,7 @@
     "prompt": "Question: Is the Earth round? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "causal_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Is the Earth round? Options: (A) No (B) Yes",
@@ -4305,7 +4305,7 @@
     "prompt": "Question: Is the sky blue during the day? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "causal_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do trees produce oxygen? Options: (A) No (B) Yes",
@@ -4329,7 +4329,7 @@
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) Some roses are red (B) Cannot be determined",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 3.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Garage (B) Road",
@@ -4341,7 +4341,7 @@
     "prompt": "Question: What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 32 (B) 20",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 32 (B) 20",
@@ -4365,13 +4365,13 @@
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Sunday (B) Saturday",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Sunday (B) Saturday",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Which is the odd one out: Apple, Banana, Orange, Carrot? Options: (A) Banana (B) Carrot",
@@ -4389,25 +4389,25 @@
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) E (B) T",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) E (B) T",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Saturday (B) Monday",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 1.0
+    "guided": 3.0
   },
   {
     "prompt": "Question: If a train travels 60 mph for 2 hours, how far does it go? Options: (A) 120 miles (B) 62 miles",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: If a train travels 60 mph for 2 hours, how far does it go? Options: (A) 30 miles (B) 120 miles",
@@ -4425,7 +4425,7 @@
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) No roses are red (B) Cannot be determined",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 63 (B) 59",
@@ -4443,7 +4443,7 @@
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) All roses are red (B) Cannot be determined",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Which is the odd one out: Apple, Banana, Orange, Carrot? Options: (A) Carrot (B) Orange",
@@ -4455,19 +4455,19 @@
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Sunday (B) Saturday",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Sunday (B) Saturday",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) No roses are red (B) Cannot be determined",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Saturday (B) Monday",
@@ -4479,19 +4479,19 @@
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 55 (B) 63",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) H (B) E",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 63 (B) 59",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 1.0
+    "guided": 10.0
   },
   {
     "prompt": "Question: What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 32 (B) 24",
@@ -4503,7 +4503,7 @@
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 59 (B) 63",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Garage (B) Road",
@@ -4515,13 +4515,13 @@
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 47 (B) 63",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) Cannot be determined (B) No roses are red",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 47 (B) 63",
@@ -4533,7 +4533,7 @@
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) Mark Twain (B) William Shakespeare",
     "task": "mmlu",
     "subtask": "college_biology",
-    "guided": 0.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What is the smallest unit of matter? Options: (A) Electron (B) Atom",
@@ -4545,13 +4545,13 @@
     "prompt": "Question: What is the capital of Australia? Options: (A) Melbourne (B) Canberra",
     "task": "mmlu",
     "subtask": "college_biology",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What is the smallest unit of matter? Options: (A) Electron (B) Atom",
     "task": "mmlu",
     "subtask": "college_biology",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which planet is closest to the Sun? Options: (A) Mercury (B) Earth",
@@ -4563,7 +4563,7 @@
     "prompt": "Question: What is the largest mammal in the world? Options: (A) African Elephant (B) Blue Whale",
     "task": "mmlu",
     "subtask": "college_biology",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which planet is closest to the Sun? Options: (A) Mercury (B) Venus",
@@ -4575,7 +4575,7 @@
     "prompt": "Question: What is the smallest unit of matter? Options: (A) Atom (B) Electron",
     "task": "mmlu",
     "subtask": "college_biology",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the capital of Australia? Options: (A) Canberra (B) Melbourne",
@@ -4599,13 +4599,13 @@
     "prompt": "Question: What is the capital of Australia? Options: (A) Canberra (B) Sydney",
     "task": "mmlu",
     "subtask": "college_biology",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Which gas makes up most of Earth's atmosphere? Options: (A) Nitrogen (B) Argon",
     "task": "mmlu",
     "subtask": "college_biology",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the capital of Australia? Options: (A) Canberra (B) Perth",
@@ -4623,13 +4623,13 @@
     "prompt": "Question: Which planet is closest to the Sun? Options: (A) Venus (B) Mercury",
     "task": "mmlu",
     "subtask": "college_biology",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) Jane Austen (B) William Shakespeare",
     "task": "mmlu",
     "subtask": "college_biology",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What is the largest mammal in the world? Options: (A) Giraffe (B) Blue Whale",
@@ -4671,31 +4671,31 @@
     "prompt": "Question: What is the largest mammal in the world? Options: (A) Blue Whale (B) Giraffe",
     "task": "mmlu",
     "subtask": "college_biology",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) William Shakespeare (B) Mark Twain",
     "task": "mmlu",
     "subtask": "college_biology",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) O (B) A",
     "task": "mmlu",
     "subtask": "college_biology",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What is the largest mammal in the world? Options: (A) Blue Whale (B) Giraffe",
     "task": "mmlu",
     "subtask": "college_biology",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the smallest unit of matter? Options: (A) Proton (B) Atom",
     "task": "mmlu",
     "subtask": "college_biology",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Which gas makes up most of Earth's atmosphere? Options: (A) Nitrogen (B) Carbon Dioxide",
@@ -4725,25 +4725,25 @@
     "prompt": "Question: What is the smallest unit of matter? Options: (A) Atom (B) Electron",
     "task": "mmlu",
     "subtask": "college_biology",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the capital of Australia? Options: (A) Melbourne (B) Canberra",
     "task": "mmlu",
     "subtask": "college_biology",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What is the capital of Australia? Options: (A) Canberra (B) Sydney",
     "task": "mmlu",
     "subtask": "college_biology",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) AB (B) O",
     "task": "mmlu",
     "subtask": "college_chemistry",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Which planet is closest to the Sun? Options: (A) Earth (B) Mercury",
@@ -4755,31 +4755,31 @@
     "prompt": "Question: What is the largest mammal in the world? Options: (A) Blue Whale (B) Giraffe",
     "task": "mmlu",
     "subtask": "college_chemistry",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What is the smallest unit of matter? Options: (A) Atom (B) Electron",
     "task": "mmlu",
     "subtask": "college_chemistry",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) William Shakespeare (B) Mark Twain",
     "task": "mmlu",
     "subtask": "college_chemistry",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which planet is closest to the Sun? Options: (A) Mercury (B) Earth",
     "task": "mmlu",
     "subtask": "college_chemistry",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) O (B) AB",
     "task": "mmlu",
     "subtask": "college_chemistry",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) O (B) B",
@@ -4797,7 +4797,7 @@
     "prompt": "Question: What is the chemical symbol for gold? Options: (A) Go (B) Au",
     "task": "mmlu",
     "subtask": "college_chemistry",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the chemical symbol for gold? Options: (A) Au (B) Gd",
@@ -4833,13 +4833,13 @@
     "prompt": "Question: What is the capital of Australia? Options: (A) Perth (B) Canberra",
     "task": "mmlu",
     "subtask": "college_chemistry",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the chemical symbol for gold? Options: (A) Go (B) Au",
     "task": "mmlu",
     "subtask": "college_chemistry",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What is the smallest unit of matter? Options: (A) Electron (B) Atom",
@@ -4863,19 +4863,19 @@
     "prompt": "Question: What is the largest mammal in the world? Options: (A) Giraffe (B) Blue Whale",
     "task": "mmlu",
     "subtask": "college_chemistry",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Who wrote 'Romeo and Juliet'? Options: (A) Charles Dickens (B) William Shakespeare",
     "task": "mmlu",
     "subtask": "college_chemistry",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) O (B) AB",
     "task": "mmlu",
     "subtask": "college_chemistry",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) A (B) O",
@@ -4893,7 +4893,7 @@
     "prompt": "Question: Which blood type is known as the universal donor? Options: (A) AB (B) O",
     "task": "mmlu",
     "subtask": "college_chemistry",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the largest mammal in the world? Options: (A) African Elephant (B) Blue Whale",
@@ -4923,13 +4923,13 @@
     "prompt": "Question: What is the largest mammal in the world? Options: (A) African Elephant (B) Blue Whale",
     "task": "mmlu",
     "subtask": "college_chemistry",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which planet is closest to the Sun? Options: (A) Mercury (B) Earth",
     "task": "mmlu",
     "subtask": "college_chemistry",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the chemical symbol for gold? Options: (A) Ag (B) Au",
@@ -4947,13 +4947,13 @@
     "prompt": "Question: Which gas makes up most of Earth's atmosphere? Options: (A) Nitrogen (B) Carbon Dioxide",
     "task": "mmlu",
     "subtask": "college_chemistry",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Give them to a dog (B) Wash them",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What do you need to make a sandwich? Options: (A) A book (B) Bread",
@@ -4965,7 +4965,7 @@
     "prompt": "Question: What do you wear on your feet? Options: (A) Shoes (B) A hat",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) Shoes (B) Gloves",
@@ -4977,13 +4977,13 @@
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It melts (B) It turns blue",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Where do you put your head when you sleep? Options: (A) On the floor (B) On a pillow",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Throw them away (B) Wash them",
@@ -4995,13 +4995,13 @@
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It turns blue (B) It melts",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) Sunglasses (B) Shoes",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It disappears (B) It melts",
@@ -5019,7 +5019,7 @@
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It turns blue (B) It melts",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you use to write? Options: (A) A pen (B) A plate",
@@ -5031,43 +5031,43 @@
     "prompt": "Question: What happens when you drop a ball? Options: (A) It falls down (B) It changes color",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What time do most people wake up? Options: (A) 8 PM (B) 7 AM",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Wash them (B) Wear them again",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What happens when you drop a ball? Options: (A) It falls down (B) It floats away",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) A hat (B) Shoes",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It turns blue (B) It melts",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Where do you put your head when you sleep? Options: (A) On a car (B) On a pillow",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It disappears (B) It melts",
@@ -5079,7 +5079,7 @@
     "prompt": "Question: What do you use to write? Options: (A) A pen (B) A pillow",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Give them to a dog (B) Wash them",
@@ -5097,7 +5097,7 @@
     "prompt": "Question: What happens when you drop a ball? Options: (A) It changes color (B) It falls down",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It gets bigger (B) It melts",
@@ -5115,19 +5115,19 @@
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It melts (B) It gets colder",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What time do most people wake up? Options: (A) 3 AM (B) 7 AM",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What do you need to make a sandwich? Options: (A) Bread (B) A car",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) Sunglasses (B) Shoes",
@@ -5145,25 +5145,25 @@
     "prompt": "Question: What happens when you drop a ball? Options: (A) It falls down (B) It changes color",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What time do most people wake up? Options: (A) 8 PM (B) 7 AM",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you need to make a sandwich? Options: (A) Bread (B) A phone",
     "task": "commonsenseqa",
     "subtask": "physical_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What happens when you drop a ball? Options: (A) It falls down (B) It disappears",
     "task": "commonsenseqa",
     "subtask": "cause_effect",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What time do most people wake up? Options: (A) 7 AM (B) 3 AM",
@@ -5181,13 +5181,13 @@
     "prompt": "Question: What do you use to write? Options: (A) A pillow (B) A pen",
     "task": "commonsenseqa",
     "subtask": "cause_effect",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you need to make a sandwich? Options: (A) A book (B) Bread",
     "task": "commonsenseqa",
     "subtask": "cause_effect",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you need to make a sandwich? Options: (A) A phone (B) Bread",
@@ -5199,7 +5199,7 @@
     "prompt": "Question: What time do most people wake up? Options: (A) 7 AM (B) 8 PM",
     "task": "commonsenseqa",
     "subtask": "cause_effect",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you use to write? Options: (A) A pen (B) A shoe",
@@ -5211,25 +5211,25 @@
     "prompt": "Question: What happens when you drop a ball? Options: (A) It falls down (B) It grows bigger",
     "task": "commonsenseqa",
     "subtask": "cause_effect",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Where do you put your head when you sleep? Options: (A) On a pillow (B) On a table",
     "task": "commonsenseqa",
     "subtask": "cause_effect",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What do you use to write? Options: (A) A plate (B) A pen",
     "task": "commonsenseqa",
     "subtask": "cause_effect",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you need to make a sandwich? Options: (A) A phone (B) Bread",
     "task": "commonsenseqa",
     "subtask": "cause_effect",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Where do you put your head when you sleep? Options: (A) On a pillow (B) On a table",
@@ -5247,7 +5247,7 @@
     "prompt": "Question: Where do you put your head when you sleep? Options: (A) On a table (B) On a pillow",
     "task": "commonsenseqa",
     "subtask": "cause_effect",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What time do most people wake up? Options: (A) 8 PM (B) 7 AM",
@@ -5259,19 +5259,19 @@
     "prompt": "Question: Where do you put your head when you sleep? Options: (A) On the floor (B) On a pillow",
     "task": "commonsenseqa",
     "subtask": "cause_effect",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What do you use to write? Options: (A) A plate (B) A pen",
     "task": "commonsenseqa",
     "subtask": "cause_effect",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) A scarf (B) Shoes",
     "task": "commonsenseqa",
     "subtask": "cause_effect",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What happens when you drop a ball? Options: (A) It falls down (B) It floats away",
@@ -5283,19 +5283,19 @@
     "prompt": "Question: What do you use to write? Options: (A) A shoe (B) A pen",
     "task": "commonsenseqa",
     "subtask": "cause_effect",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Wash them (B) Eat them",
     "task": "commonsenseqa",
     "subtask": "cause_effect",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What do you need to make a sandwich? Options: (A) A phone (B) Bread",
     "task": "commonsenseqa",
     "subtask": "cause_effect",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Where do you put your head when you sleep? Options: (A) On a pillow (B) On a chair",
@@ -5307,13 +5307,13 @@
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It turns blue (B) It melts",
     "task": "commonsenseqa",
     "subtask": "cause_effect",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) A hat (B) Shoes",
     "task": "commonsenseqa",
     "subtask": "cause_effect",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Wash them (B) Eat them",
@@ -5331,13 +5331,13 @@
     "prompt": "Question: What happens when you drop a ball? Options: (A) It falls down (B) It disappears",
     "task": "commonsenseqa",
     "subtask": "cause_effect",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What do you do with dirty clothes? Options: (A) Throw them away (B) Wash them",
     "task": "commonsenseqa",
     "subtask": "cause_effect",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What do you need to make a sandwich? Options: (A) A computer (B) Bread",
@@ -5349,7 +5349,7 @@
     "prompt": "Question: What happens to ice when it gets warm? Options: (A) It melts (B) It gets colder",
     "task": "commonsenseqa",
     "subtask": "cause_effect",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What do you wear on your feet? Options: (A) Shoes (B) Sunglasses",
@@ -5373,13 +5373,13 @@
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 47 (B) 63",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 3.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Saturday (B) Monday",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Which is the odd one out: Apple, Banana, Orange, Carrot? Options: (A) Carrot (B) Orange",
@@ -5391,13 +5391,13 @@
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) Cannot be determined (B) All roses are red",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 3.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) H (B) E",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 3.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) Cannot be determined (B) No roses are red",
@@ -5427,13 +5427,13 @@
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Sunday (B) Saturday",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Driver (B) Garage",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 32 (B) 64",
@@ -5451,7 +5451,7 @@
     "prompt": "Question: Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Road (B) Garage",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 32 (B) 24",
@@ -5469,7 +5469,7 @@
     "prompt": "Question: If today is Wednesday, what day will it be 10 days from now? Options: (A) Sunday (B) Saturday",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the missing number: 3, 7, 15, 31, ? Options: (A) 63 (B) 55",
@@ -5493,7 +5493,7 @@
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) All roses are red (B) Cannot be determined",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 32 (B) 20",
@@ -5505,7 +5505,7 @@
     "prompt": "Question: Which is the odd one out: Apple, Banana, Orange, Carrot? Options: (A) Banana (B) Carrot",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: What comes next in the pattern: O, T, T, F, F, S, S, ? Options: (A) H (B) E",
@@ -5517,13 +5517,13 @@
     "prompt": "Question: What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 64 (B) 32",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 32 (B) 20",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Which is the odd one out: Apple, Banana, Orange, Carrot? Options: (A) Orange (B) Carrot",
@@ -5535,19 +5535,19 @@
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) Cannot be determined (B) All roses are red",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: If all roses are flowers and some flowers are red, which statement is definitely true? Options: (A) Some roses are red (B) Cannot be determined",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 3.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Engine (B) Garage",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 20 (B) 32",
@@ -5565,7 +5565,7 @@
     "prompt": "Question: If a train travels 60 mph for 2 hours, how far does it go? Options: (A) 62 miles (B) 120 miles",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Garage (B) Driver",
@@ -5577,7 +5577,7 @@
     "prompt": "Question: Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Road (B) Garage",
     "task": "bigbench",
     "subtask": "auto_causal_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Is the Earth round? Options: (A) Yes (B) No",
@@ -5589,7 +5589,7 @@
     "prompt": "Question: Is the sky blue during the day? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "comparison_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Can fish survive on land? Options: (A) Yes (B) No",
@@ -5607,19 +5607,19 @@
     "prompt": "Question: Can fish survive on land? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "comparison_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do trees produce oxygen? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "comparison_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do humans have tails? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "comparison_reasoning",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Is the Earth round? Options: (A) Yes (B) No",
@@ -5637,7 +5637,7 @@
     "prompt": "Question: Do trees produce oxygen? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "comparison_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Can fish survive on land? Options: (A) No (B) Yes",
@@ -5649,7 +5649,7 @@
     "prompt": "Question: Can fish survive on land? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "comparison_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Is the sky blue during the day? Options: (A) No (B) Yes",
@@ -5691,7 +5691,7 @@
     "prompt": "Question: Do more people live in cities or rural areas worldwide? Options: (A) Cities (B) Rural areas",
     "task": "strategyqa",
     "subtask": "comparison_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Is the Earth round? Options: (A) No (B) Yes",
@@ -5721,7 +5721,7 @@
     "prompt": "Question: Is the Earth round? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "comparison_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do birds have teeth? Options: (A) Yes (B) No",
@@ -5769,7 +5769,7 @@
     "prompt": "Question: Is the Earth round? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "comparison_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Can fish survive on land? Options: (A) Yes (B) No",
@@ -5799,19 +5799,19 @@
     "prompt": "Question: Is water wet? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "logical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Do humans have tails? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "logical_reasoning",
-    "guided": 1.0
+    "guided": 2.0
   },
   {
     "prompt": "Question: Can fish survive on land? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "logical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Is the Earth round? Options: (A) Yes (B) No",
@@ -5841,13 +5841,13 @@
     "prompt": "Question: Do trees produce oxygen? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "logical_reasoning",
-    "guided": 2.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do birds have teeth? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "logical_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do humans have tails? Options: (A) No (B) Yes",
@@ -5865,7 +5865,7 @@
     "prompt": "Question: Do more people live in cities or rural areas worldwide? Options: (A) Cities (B) Rural areas",
     "task": "strategyqa",
     "subtask": "logical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Is water wet? Options: (A) Yes (B) No",
@@ -5919,13 +5919,13 @@
     "prompt": "Question: Is the Earth round? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "logical_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Do trees produce oxygen? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "logical_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Is water wet? Options: (A) Yes (B) No",
@@ -5937,19 +5937,19 @@
     "prompt": "Question: Is water wet? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "logical_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Can fish survive on land? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "logical_reasoning",
-    "guided": 2.0
+    "guided": 1.0
   },
   {
     "prompt": "Question: Is the sky blue during the day? Options: (A) Yes (B) No",
     "task": "strategyqa",
     "subtask": "logical_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   },
   {
     "prompt": "Question: Is water wet? Options: (A) No (B) Yes",
@@ -5997,6 +5997,6 @@
     "prompt": "Question: Is the Earth round? Options: (A) No (B) Yes",
     "task": "strategyqa",
     "subtask": "logical_reasoning",
-    "guided": 1.0
+    "guided": 4.0
   }
 ]
