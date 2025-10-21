@@ -1,0 +1,6002 @@
+[
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "college_mathematics",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "high_school_mathematics",
+    "guided": 2.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 0.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 5.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "formal_logic",
+    "guided": 1.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "moral_scenarios",
+    "guided": 4.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 3.0
+  },
+  {
+    "prompt": "",
+    "task": "",
+    "subtask": "general",
+    "guided": 4.0
+  }
+]
