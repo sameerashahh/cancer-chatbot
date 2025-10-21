@@ -13,7 +13,7 @@ import numpy as np
 # Configuration
 MODEL_NAME = "microsoft/phi-3-mini-128k-instruct"
 OUTPUT_FILE = "complexity_results.json"
-INPUT_FILE = "prepared_prompts.json"
+INPUT_FILE = "../data/prepared_prompts.json"
 TEMPERATURE = 0.8
 MAX_TOKENS = 10
 NUM_PROMPTS = 1000  # Start small; scale up later
