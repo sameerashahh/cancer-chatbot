@@ -1,0 +1,7 @@
+[
+  {
+    "question": "Which city is the capital of Australia? Options: (A) Sydney (B) Melbourne (C) Canberra (D) Perth",
+    "cot": "Canberra is the capital of Australia. While Sydney and Melbourne are larger cities, Canberra was specifically designed and built to serve as the capital city, located in the Australian Capital Territory.",
+    "answer": "C"
+  }
+]

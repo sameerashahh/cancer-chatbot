@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is the next number in the sequence: 2, 4, 8, 16, ? Options: (A) 20 (B) 24 (C) 32 (D) 64",
+    "cot": "Looking at the sequence 2, 4, 8, 16, I can see that each number is double the previous one: 2×2=4, 4×2=8, 8×2=16. So the next number should be 16×2=32.",
+    "answer": "C"
+  },
+  {
+    "question": "Which word best completes the analogy: Book is to Library as Car is to ? Options: (A) Driver (B) Garage (C) Road (D) Engine",
+    "cot": "In this analogy, a book is stored in a library, so I need to find where a car is stored. A car is stored in a garage, making this the most appropriate relationship.",
+    "answer": "B"
+  }
+]
