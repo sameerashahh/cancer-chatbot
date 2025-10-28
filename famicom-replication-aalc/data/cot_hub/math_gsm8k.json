@@ -1,7 +1,0 @@
-[
-  {
-    "question": "If you have 3 apples and buy 4 more, how many apples do you have? Options: (A) 6 (B) 7 (C) 8 (D) 9",
-    "cot": "Start with 3 apples, buy 4 more: 3 + 4 = 7 apples.",
-    "answer": "B"
-  }
-]

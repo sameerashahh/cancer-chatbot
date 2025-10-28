@@ -1,7 +1,0 @@
-[
-  {
-    "question": "Person A feels upset because Person B didn't attend their party. What is the likely cause? Options: (A) B forgot the time (B) B is angry (C) B moved away (D) B was sleeping",
-    "cot": "It is likely that Person B forgot the time or had a scheduling conflict; forgetting the time is a common reason someone might miss a party.",
-    "answer": "A"
-  }
-]

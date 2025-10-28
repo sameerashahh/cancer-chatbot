@@ -1,7 +1,0 @@
-[
-  {
-    "question": "What planet is known as the Red Planet? Options: (A) Venus (B) Mars (C) Jupiter (D) Saturn",
-    "cot": "Mars is called the Red Planet due to iron oxide (rust) on its surface which gives it a reddish appearance.",
-    "answer": "B"
-  }
-]
