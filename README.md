@@ -1,4 +1,4 @@
-# FAMICOM Complexity & Familiarity Analysis
+# Extending FAMICOM (Improving estimation of LLM performance)
 
 A comprehensive framework for analyzing prompt complexity and familiarity metrics using the **FAMICOM** methodology. This project replicates the FAMICOM paper's findings across multiple language models (Phi-3-mini, Mistral-7B) and datasets, enabling correlation analysis between prompt characteristics and model performance.
 
@@ -22,12 +22,12 @@ A comprehensive framework for analyzing prompt complexity and familiarity metric
 
 This project implements a complete replication of the **FAMICOM** framework—a metric that combines **FAMiliarity** and **COMplexity** scores to predict language model performance on diverse question-answering tasks. The framework enables:
 
-✅ **Prompt Complexity Analysis** – Quantifies problem difficulty using guided reasoning steps  
-✅ **Familiarity Measurement** – Combines perplexity and keyword similarity to assess prompt familiarity  
-✅ **FAMICOM Score Computation** – Integrates both metrics via the formula: `FAMICOM = f^a × c^(-b)`  
-✅ **Performance Correlation** – Validates correlation between FAMICOM scores and model accuracy  
-✅ **Multi-Model Support** – Supports Phi-3-mini, Mistral-7B, and other models  
-✅ **Multi-Dataset Support** – Includes MMLU, StrategyQA, BigBench, CommonSenseQA, and more  
+**Prompt Complexity Analysis** – Quantifies problem difficulty using guided reasoning steps  
+**Familiarity Measurement** – Combines perplexity and keyword similarity to assess prompt familiarity  
+**FAMICOM Score Computation** – Integrates both metrics via the formula: `FAMICOM = f^a × c^(-b)`  
+**Performance Correlation** – Validates correlation between FAMICOM scores and model accuracy  
+**Multi-Model Support** – Supports Phi-3-mini, Mistral-7B, and other models  
+**Multi-Dataset Support** – Includes MMLU, StrategyQA, BigBench, CommonSenseQA, and more  
 
 ## FAMICOM Methodology
 
