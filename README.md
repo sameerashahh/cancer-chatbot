@@ -1,6 +1,6 @@
 # Extending FAMICOM (Improving estimation of LLM performance)
 
-A comprehensive framework for analyzing prompt complexity and familiarity metrics using the **FAMICOM** methodology. This project replicates the FAMICOM paper's findings across multiple language models (Phi-3-mini, Mistral-7B) and datasets, enabling correlation analysis between prompt characteristics and model performance.
+This project replicates the FAMICOM paper's findings across multiple language models (Phi-3-mini, Mistral-7B) and datasets, enabling correlation analysis between prompt characteristics and model performance and attempts to extend it by improving the current metrics and using additional metrics that are tied to model performance.
 
 ## Table of Contents
 
