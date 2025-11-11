@@ -1,7 +1,0 @@
-[
-  {
-    "question": "Person A saw Person B running out of the store with a bag. What is most likely happening? Options: (A) They are exercising (B) They stole something (C) They are late for a meeting (D) They are carrying groceries",
-    "cot": "Given the phrasing 'running out of the store with a bag' the abductive inference that best explains this behavior could be that the person stole something, though other possibilities exist. The most plausible under commonsense would be theft.",
-    "answer": "B"
-  }
-]
