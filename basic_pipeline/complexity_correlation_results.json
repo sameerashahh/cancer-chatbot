@@ -1,0 +1,48 @@
+{
+  "measure": "Inverse Complexity",
+  "spearman_correlation": -0.07946629862064612,
+  "p_value": 0.011944551319040514,
+  "total_questions": 1000,
+  "valid_questions": 1000,
+  "overall_accuracy": 0.664,
+  "complexity_stats": {
+    "mean": 1.808,
+    "std": 0.5754441762673422,
+    "min": 1.0,
+    "max": 5.0,
+    "unique_values": [
+      1.0,
+      2.0,
+      3.0,
+      4.0,
+      5.0
+    ]
+  },
+  "inverse_complexity_stats": {
+    "mean": 0.6211333333333333,
+    "std": 0.23104363224291644,
+    "min": 0.2,
+    "max": 1.0
+  },
+  "binned_visualization": {
+    "num_bins": 10,
+    "bin_centers": [
+      0.24000000000000002,
+      0.32,
+      0.48,
+      0.96
+    ],
+    "bin_accuracies": [
+      0.5,
+      0.5576923076923077,
+      0.7100591715976331,
+      0.571969696969697
+    ],
+    "bin_counts": [
+      8,
+      52,
+      676,
+      264
+    ]
+  }
+}
