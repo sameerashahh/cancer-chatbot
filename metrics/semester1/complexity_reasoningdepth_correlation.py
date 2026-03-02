@@ -5,7 +5,7 @@ from scipy.stats import pearsonr
 import matplotlib.pyplot as plt
 
 # Load data
-with open("../basic_pipeline/model_results.json") as f:
+with open("../../basic_pipeline/model_results.json") as f:
     results = json.load(f)
 
 with open("complexity_results.json") as f:

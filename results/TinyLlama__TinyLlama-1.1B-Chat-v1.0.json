@@ -1,0 +1,69 @@
+{
+  "model": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+  "device": "cuda",
+  "samples_per_dataset": 200,
+  "shuffle_seed": 42,
+  "batch_size_init": 8,
+  "datasets": {
+    "imdb": {
+      "accuracy": 0.54,
+      "correct": 108,
+      "total": 200,
+      "none_predictions": 0
+    },
+    "yelp_polarity": {
+      "accuracy": 0.53,
+      "correct": 106,
+      "total": 200,
+      "none_predictions": 0
+    },
+    "sst2": {
+      "accuracy": 0.515,
+      "correct": 103,
+      "total": 200,
+      "none_predictions": 1
+    },
+    "tweet_eval_hate": {
+      "accuracy": 0.405,
+      "correct": 81,
+      "total": 200,
+      "none_predictions": 31
+    },
+    "boolq": {
+      "accuracy": 0.355,
+      "correct": 71,
+      "total": 200,
+      "none_predictions": 20
+    },
+    "ag_news": {
+      "accuracy": 0.29,
+      "correct": 58,
+      "total": 200,
+      "none_predictions": 1
+    },
+    "dbpedia_14": {
+      "accuracy": 0.05,
+      "correct": 10,
+      "total": 200,
+      "none_predictions": 0
+    },
+    "banking77": {
+      "accuracy": 0.02,
+      "correct": 4,
+      "total": 200,
+      "none_predictions": 0
+    },
+    "gsm8k": {
+      "accuracy": 0.13,
+      "correct": 26,
+      "total": 200,
+      "none_predictions": 2
+    },
+    "aqua_rat": {
+      "accuracy": 0.19,
+      "correct": 38,
+      "total": 200,
+      "none_predictions": 0
+    }
+  }
+}

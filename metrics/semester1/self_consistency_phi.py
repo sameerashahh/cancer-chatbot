@@ -16,7 +16,7 @@ MODEL_NAME = "./phi_3_mini_128k"
 INPUT_FILE = "questions_binary.json"
 OUTPUT_FILE = "self_consistency_results.json"
 
-NUM_PROMPTS = 1000
+NUM_PROMPTS = 6000
 N_SAMPLES = 20                  # number of samples per prompt
 MAX_NEW_TOKENS = 16             # keep small for binary classification
 TEMPERATURE = 1.0               # must sample stochastically
