@@ -3,67 +3,89 @@
   "device": "cuda",
   "samples_per_dataset": 200,
   "shuffle_seed": 42,
-  "batch_size_init": 16,
+  "batch_size": 8,
+  "max_new_tokens_default": 96,
+  "max_input_tokens": 2048,
   "datasets": {
     "imdb": {
-      "accuracy": 0.5,
-      "correct": 100,
+      "accuracy": 0.855,
+      "correct": 171,
       "total": 200,
-      "none_predictions": 0
+      "none_predictions": 0,
+      "parse_rate": 1.0,
+      "acc_parsed": 0.855
     },
     "yelp_polarity": {
-      "accuracy": 0.525,
-      "correct": 105,
+      "accuracy": 0.82,
+      "correct": 164,
       "total": 200,
-      "none_predictions": 0
+      "none_predictions": 0,
+      "parse_rate": 1.0,
+      "acc_parsed": 0.82
     },
     "sst2": {
-      "accuracy": 0.535,
-      "correct": 107,
+      "accuracy": 0.685,
+      "correct": 137,
       "total": 200,
-      "none_predictions": 0
+      "none_predictions": 0,
+      "parse_rate": 1.0,
+      "acc_parsed": 0.685
     },
     "tweet_eval_hate": {
-      "accuracy": 0.49,
-      "correct": 98,
+      "accuracy": 0.575,
+      "correct": 115,
       "total": 200,
-      "none_predictions": 0
+      "none_predictions": 0,
+      "parse_rate": 0.97,
+      "acc_parsed": 0.5876288659793815
     },
     "boolq": {
-      "accuracy": 0.565,
-      "correct": 113,
+      "accuracy": 0.635,
+      "correct": 127,
       "total": 200,
-      "none_predictions": 6
+      "none_predictions": 0,
+      "parse_rate": 0.99,
+      "acc_parsed": 0.6313131313131313
     },
     "ag_news": {
-      "accuracy": 0.335,
-      "correct": 67,
+      "accuracy": 0.44,
+      "correct": 88,
       "total": 200,
-      "none_predictions": 0
+      "none_predictions": 0,
+      "parse_rate": 1.0,
+      "acc_parsed": 0.44
     },
     "dbpedia_14": {
-      "accuracy": 0.08,
-      "correct": 16,
+      "accuracy": 0.25,
+      "correct": 50,
       "total": 200,
-      "none_predictions": 0
+      "none_predictions": 0,
+      "parse_rate": 0.755,
+      "acc_parsed": 0.31788079470198677
     },
     "banking77": {
-      "accuracy": 0.01,
-      "correct": 2,
+      "accuracy": 0.045,
+      "correct": 9,
       "total": 200,
-      "none_predictions": 2
+      "none_predictions": 0,
+      "parse_rate": 0.525,
+      "acc_parsed": 0.047619047619047616
     },
     "gsm8k": {
-      "accuracy": 0.105,
-      "correct": 21,
+      "accuracy": 0.11,
+      "correct": 22,
       "total": 200,
-      "none_predictions": 0
+      "none_predictions": 0,
+      "parse_rate": 1.0,
+      "acc_parsed": 0.11
     },
     "aqua_rat": {
-      "accuracy": 0.215,
-      "correct": 43,
+      "accuracy": 0.21,
+      "correct": 42,
       "total": 200,
-      "none_predictions": 16
+      "none_predictions": 0,
+      "parse_rate": 0.91,
+      "acc_parsed": 0.2032967032967033
     }
   }
 }
